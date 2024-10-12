@@ -15,3 +15,11 @@
 （4）最后查看结果。需要能理解报表中，各项参数的含义，以及不同颜色区域的意义。
 
 Ansys教学视频：https://www.bilibili.com/list/ml2706129942
+
+---
+
+给作者捐赠：
+
+<div align=center>
+<img src="https://github.com/forestluo/AlgMain/blob/main/weixin.jpg" width="210px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/forestluo/AlgMain/blob/main/zhifubao.jpg" width="210px">
+</div>
