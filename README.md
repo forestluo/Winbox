@@ -16,6 +16,10 @@
 
 Ansys教学视频：https://www.bilibili.com/list/ml2706129942
 
+<div align=center>
+  <img src="https://github.com/forestluo/Winbox/blob/main/result1.png">
+</div>
+
 ---
 
 给作者捐赠：
